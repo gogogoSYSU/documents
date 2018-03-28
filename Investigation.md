@@ -1,4 +1,5 @@
-# DoubleDucks Ordering System 前期调研报告
+# SYSCOP 前期调研报告
+>Sun Yat-sen Scan Code Ordering Platform,即双鸭山扫码点餐系统，简称SYSCOP
 ## 调查简介
 - **调查主题**：扫码点餐系统使用情况调查以及消费者对扫码点餐的看法
 - **受访人数**：104
