@@ -22,6 +22,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 #### Week2(2018/03/25)
  - 会议记录：  
  李璐圆： [2018/03/25会议记录](https://www.processon.com/view/link/5acf6b99e4b02dfcf99e8681)
+ 李蕾：[2018/03/25会议记录](https://www.processon.com/view/link/5acf6ebbe4b04691062e62c0)
  - 需求分析：发放调查问卷，根据调查问卷的结果并结合实地使用经验，撰写项目前期调研报告。初步项目亮点
  - 设计：确定应用名称，确定应用logo，确定项目技术栈和基本框架
  - 开发：习惯Git的使用，明确基本分工，配置Android开发环境
