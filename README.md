@@ -19,7 +19,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 15331158|李璐圆
 15331144|李晨瑶
 15331122|黄依婷
-  
+<br></br>
 [team profile](./documents/team profile.md)
 
 ## Product features
@@ -35,8 +35,8 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 
 ## About UI
 ### Our logo
-![logo1](./img/SYSSCOP_logo.jpg =100*100)
-![logo2](./img/SYSSCOP_logo2.jpg =100*100)
+![logo1](./img/SYSSCOP_logo.jpg =100x100)
+![logo2](./img/SYSSCOP_logo2.jpg =100x100)
 
 ## Iterations
 
