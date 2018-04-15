@@ -19,7 +19,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 15331158|李璐圆
 15331144|李晨瑶
 15331122|黄依婷
-
+  
 [team profile](./documents/team profile.md)
 
 ## Product features
@@ -30,13 +30,13 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 经营数据分析（销售排行、营业分析、退菜分析、客户分析）等让经营有的放矢、收银系统安装、菜单数据上传、员工使用说明。
 
 ## Investigation
-[调查问卷](https://www.wjx.cn/jq/21713433.aspx?t=636594121383241250)
+[调查问卷](https://www.wjx.cn/jq/21713433.aspx?t=636594121383241250)  
 [前期调研报告](./documents/Investigation.md)
 
 ## About UI
 ### Our logo
-![logo1](./img/SYSSCOP_logo.jpg)
-![logo2](./img/SYSSCOP_logo2.jpg)
+![logo1](./img/SYSSCOP_logo.jpg =100*100)
+![logo2](./img/SYSSCOP_logo2.jpg =100*100)
 
 ## Iterations
 
