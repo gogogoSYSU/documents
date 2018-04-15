@@ -11,7 +11,9 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 为满足市场的需求，更好的服务市场，我们力求研发一款可以实现创新的稳定迅速而丰富的扫码点餐平台，力求打造双鸭超一流扫码点餐平台。
 
 ## Team members
+
 [team profile](./documents/team profile.md)
+
 学号 | 姓名 
 ----|-----
 15331180|练启业
@@ -34,8 +36,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 
 ## About UI
 ### Our logo
-<img src="./img/SYSSCOP_logo.jpg" width="30%" alt=""/>
-<img src="./img/SYSSCOP_logo2.jpg" width="30%" alt=""/>
+<img src="./img/SYSSCOP_logo.jpg" width="30%" alt=""/> <img src="./img/SYSSCOP_logo2.jpg" width="30%" alt=""/>
 
 ## Iterations
 
