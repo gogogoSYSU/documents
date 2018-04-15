@@ -12,7 +12,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 
 ## Team members
 
-[team profile](./documents/team profile.md)
+[team profile](./documents/team%20profile.md)
 
 学号 | 姓名 
 ----|-----
