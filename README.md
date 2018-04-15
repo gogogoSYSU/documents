@@ -58,7 +58,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
  - 上线：无
 
 #### Week3(2018/04/11)
- - 会议记录（暂未上传） 
+ - [会议记录](./meetings/2018_04_10/2018_04_10.md)
  - 需求分析：完善需求规格说明，绘制Usecase diagram
  - 设计：绘制顾客端和商家端页面逻辑图，设计UI原型
  - 开发：撰写技术学习报告或工具使用方法或项目工作经验总结：[汇总](./Reports/第一次report-链接.md)
