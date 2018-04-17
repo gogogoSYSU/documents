@@ -36,7 +36,13 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 
 ## About UI
 ### Our logo
-<img src="./img/SYSSCOP_logo.jpg" width="30%" alt=""/> <img src="./img/SYSSCOP_logo2.jpg" width="30%" alt=""/>
+<img src="./img/SYSSCOP_logo.jpg" width="25%" alt=""/> <img src="./img/SYSSCOP_logo2.jpg" width="25%" alt=""/>
+
+### Demo of customer
+![Demo of customer](./UI/Demo_customer.png)
+
+使用手机扫码程序扫描以上二维码，点击直接查看，即可查看客户端UI的Demo。
+目前完成简易版搜索、查看店家信息、查看菜品信息、结算等页面示意（2018/04/17）。
 
 ## Iterations
 
@@ -57,9 +63,9 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
  - 开发：习惯Git的使用，明确基本分工，配置Android开发环境
  - 上线：无
 
-#### Week3(2018/04/11)
+#### Week3(2018/04/10)
  - [会议记录](./meetings/2018_04_10/2018_04_10.md)
  - 需求分析：完善需求规格说明，绘制Usecase diagram
- - 设计：绘制顾客端和商家端页面逻辑图，设计UI原型
+ - 设计：绘制顾客端和商家端页面逻辑图，设计UI原型([顾客端](./UI/customerDemo/index.html)，手机版demo详见About UI模块的二维码)。
  - 开发：撰写技术学习报告或工具使用方法或项目工作经验总结：[汇总](./Reports/第一次report-链接.md)
  - 上线：无
