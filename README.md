@@ -63,7 +63,7 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
  - 开发：习惯Git的使用，明确基本分工，配置Android开发环境
  - 上线：无
 
-#### Week3(2018/04/11)
+#### Week3(2018/04/10)
  - [会议记录](./meetings/2018_04_10/2018_04_10.md)
  - 需求分析：完善需求规格说明，绘制Usecase diagram
  - 设计：绘制顾客端和商家端页面逻辑图，设计UI原型([顾客端](./UI/customerDemo/index.html)，手机版demo详见About UI模块的二维码)。
