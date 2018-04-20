@@ -16,12 +16,12 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 
 学号 | 姓名 | 班级
 -|-|-
-15331180|练启业|上午班
-15331158|李璐圆|上午班
-15331044|陈再兴|下午班
-15331157|李蕾|下午班
-15331144|李晨瑶|下午班
-15331122|黄依婷|下午班
+15331180|lianqy|上午班
+15331158|LuyuanLi97|上午班
+15331044|CZXHenry|下午班
+15331157|Caroline1997|下午班
+15331144|xiasilo|下午班
+15331122|YitingKikyo|下午班
 
 ## Product features
 作为一个标准的扫码点餐平台，我们具备了扫码、点餐、结算、设置菜单、收取订单、后台分析数据反馈等基本功能。  
