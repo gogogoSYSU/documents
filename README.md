@@ -38,11 +38,14 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 ### Our logo
 <img src="./img/SYSSCOP_logo.jpg" width="25%" alt=""/> <img src="./img/SYSSCOP_logo2.jpg" width="25%" alt=""/>
 
-### Demo of customer
-![Demo of customer](./UI/Demo_customer.png)
+### Demo of customer（1.0）
+![Demo of customer](./UI/customerDemo/Demo_customer.png)
 
 使用手机扫码程序扫描以上二维码，点击直接查看，即可查看客户端UI的Demo。
 目前完成简易版搜索、查看店家信息、查看菜品信息、结算等页面示意（2018/04/17）。
+
+### UI ofcustomer (2.0)
+重构UI界面，添加折叠功能，可折叠单个菜品、隐藏类别导航栏、按列表折叠全部菜品,详情请见UI/UI2.0文件夹（2018/05/01）。
 
 ## Iterations
 
@@ -69,3 +72,12 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
  - 设计：绘制顾客端和商家端页面逻辑图，设计UI原型([顾客端](./UI/customerDemo/index.html)，手机版demo详见About UI模块的二维码)。
  - 开发：撰写技术学习报告或工具使用方法或项目工作经验总结：[汇总](./Reports/第一次report-链接.md)
  - 上线：无
+
+#### Week4(2018/04/27)
+ - 会议记录[暂未上传]
+ - 需求分析：无
+ - 设计：设计UI2.0原型
+ - 设计：制作E-R逻辑模型，完成[顾客端用例](Requirement%20specification/Use%20Cases/CustomerUsercaseText.md)，绘制顾客端领域模型，设计UI2.0，找两个第三方数据库评审人指出潜在问题
+ - 开发：无
+ - 上线：无
+ - 学习：学习Vue.js以及基于Vue.js的Element UI框架，学习go语言并成功搭建go环境，学习在云上部署服务器
