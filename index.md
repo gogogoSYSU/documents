@@ -18,7 +18,7 @@ layout: default
     - 6.4 State Model（状态模型）
     - 6.5 System Sequence Diagram（功能模型)
 * 7、Design（设计）
-    - 7.1 UI design
+    - 7.1 UI design  
         - [顾客端UI设计](https://github.com/gogogoSYSU/documents/tree/master/UI/UI2.0)
     - 7.2 Database design
         - 7.2.1 用户及权限系统数据库设计
