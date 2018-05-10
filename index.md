@@ -8,9 +8,9 @@ layout: default
 
 * 1、[About](01-about)（项目规划）
 * 2、[Team profile](https://github.com/gogogoSYSU/documents/blob/master/documents/team%20profile.md)（团队组建）
-* 3、Investigation（项目前期调研）
-* 4、Vision（项目愿景）
-* 5、Product Backlog （产品特性）
+* 3、[Investigation](https://github.com/gogogoSYSU/documents/blob/master/documents/Investigation.md)（项目前期调研）
+* 4、[Vision](https://github.com/gogogoSYSU/documents/blob/master/documents/Project%20Vision.md)（项目愿景）
+* 5、[Product Backlog](https://github.com/gogogoSYSU/documents/blob/master/documents/Product%20Features.md) （产品特性）
 * 6、Requirement specification（需求规格说明）
     - 6.1 Usecase Diagram（用例图）
     - 6.2 Use Cases（用例+活动图）
