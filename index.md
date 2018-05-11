@@ -14,9 +14,9 @@ layout: default
 * 6、Requirement specification（需求规格说明）
     - 6.1 [Usecase Diagram](https://github.com/gogogoSYSU/documents/tree/master/Requirement%20specification/Usercase%20Diagram)（用例图）
     - 6.2 [Use Cases](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Use%20Cases/CustomerUsercaseText.md)（用例+活动图）
-    - 6.3 [Domian Model](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Domain%20Model/Costomer%20Domain%20Model.PNG)（领域模型）
-    - 6.4 State Model（状态模型）
-    - 6.5 System Sequence Diagram（功能模型)
+    - 6.3 [Domain Model](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Domain%20Model/Costomer%20Domain%20Model.PNG)（领域模型）
+    - 6.4 State Model（状态模型)  
+    - 6.5 [System Sequence Diagram](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/SSD.md)（功能模型)
 * 7、Design（设计）
     - 7.1 UI design  
         - [顾客端UI设计](https://github.com/gogogoSYSU/documents/tree/master/UI/UI2.0)
@@ -28,8 +28,9 @@ layout: default
 * 8、生产规范与指南
     - 8.1 XX 代码规范
     - 8.2 REST API 设计规范
-* X1 meet_recording
+* 9、meet_recording
     - [18/03/25](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_03_25/2018_03_25.md)
     - [18/04/10](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_04_10/2018_04_10.md)
-* X2 Tech/Work Report  
-    - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
+* 10、Tech/Work Report  
+    - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
+* 11、建模练习
