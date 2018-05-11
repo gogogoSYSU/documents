@@ -31,6 +31,6 @@ layout: default
 * 9、meet_recording
     - [18/03/25](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_03_25/2018_03_25.md)
     - [18/04/10](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_04_10/2018_04_10.md)
-* 10、Tech/Work Report  
-    - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
+* 10、Tech/Work Report  
+    - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
 * 11、建模练习
