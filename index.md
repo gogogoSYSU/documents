@@ -22,7 +22,8 @@ layout: default
         - [顾客端UI设计](https://github.com/gogogoSYSU/documents/tree/master/UI/UI2.0)
     - 7.2 Database design
         - 7.2.1 用户及权限系统数据库设计
-        - 7.2.2 XX子系统数据课设计 
+        
+        - 7.2.2 [XX子系统数据库设计](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/database.jpg) 
         - 7.2.x 第三方数据评审结果
     - 7.3 API 设计
 * 8、生产规范与指南
