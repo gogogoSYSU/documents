@@ -34,3 +34,9 @@ layout: default
 * 10、Tech/Work Report  
     - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
 * 11、建模练习
+    
+    - 11.1 [ofo共享单车应用](https://github.com/gogogoSYSU/documents/blob/master/建模练习/ofo共享单车应用.pdf)
+    
+    - 11.2 建模要求
+    
+    - 11.3 建模者答案与评价
