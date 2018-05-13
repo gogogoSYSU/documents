@@ -9,4 +9,6 @@
 ![支付](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/15331122.png)
 
 扫码部分顺序图
-![扫码](15331157.PNG)
+![扫码1](15331157.PNG)
+
+![扫码2](15331144.png)
