@@ -1,0 +1,12 @@
+查看菜谱顺序图  
+![查看菜谱](15331158.PNG)
+
+查看商家信息顺序图
+![查看商家信息](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/15331044.png)
+
+支付部分顺序图
+
+![支付](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/15331122.png)
+
+扫码部分顺序图
+![扫码](15331157.PNG)
