@@ -76,8 +76,14 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 #### Week4(2018/04/27)
  - 会议记录[暂未上传]
  - 需求分析：无
- - 设计：设计UI2.0原型
- - 设计：制作E-R逻辑模型，完成[顾客端用例](Requirement%20specification/Use%20Cases/CustomerUsercaseText.md)，绘制顾客端领域模型，设计UI2.0，找两个第三方数据库评审人指出潜在问题
+ - 设计：设计UI2.0原型，制作E-R逻辑模型，完成[顾客端用例](Requirement%20specification/Use%20Cases/CustomerUsercaseText.md)，绘制顾客端领域模型，设计UI2.0，找两个第三方数据库评审人指出潜在问题
  - 开发：无
  - 上线：无
  - 学习：学习Vue.js以及基于Vue.js的Element UI框架，学习go语言并成功搭建go环境，学习在云上部署服务器
+ 
+ #### Week5（2018/05/15）
+ - 会议记录[暂缺]
+ - 需求分析：无
+ - 设计：完成API设计
+ - 开发：搭好环境之后开始代码的编写
+ - 上线：无
