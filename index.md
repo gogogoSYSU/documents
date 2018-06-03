@@ -1,7 +1,3 @@
-p---
-layout: default
----
-
 # [](#TOC)目录
 
 &nbsp;&nbsp; 
@@ -27,7 +23,7 @@ layout: default
         - 7.2.x 第三方数据评审结果
     - 7.3 API 设计
 * 8、生产规范与指南
-    - 8.1 XX 代码规范
+    - 8.1 [代码规范](https://github.com/gogogoSYSU/documents/tree/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97)
     - 8.2 REST API 设计规范
 * 9、meet_recording
     - [18/03/25](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_03_25/2018_03_25.md)
