@@ -15,7 +15,7 @@
     - 6.5 [System Sequence Diagram](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/SSD.md)（功能模型)
     - 6.6 Supplementary Requirements（补充需求）  
 * 7、Design（设计）
-    - 7.1 UI design
+    - 7.1 UI design  
         - 7.1.1 [顾客端UI设计](https://github.com/gogogoSYSU/documents/tree/master/UI/UI2.0)
     - 7.2 Database design
         - 7.2.1 用户及权限系统数据库设计
