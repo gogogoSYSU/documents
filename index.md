@@ -32,16 +32,14 @@
 * 9、meet_recording
     - [18/03/25](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_03_25/2018_03_25.md)
     - [18/04/10](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_04_10/2018_04_10.md)
-* 10、meet_recording
-    - inception meeting (yy/mm/dd)
-* 11、Tech/Work Report  
+* 10、Tech/Work Report  
     - [第一次学习报告](https://github.com/gogogoSYSU/documents/blob/master/Reports/%E7%AC%AC%E4%B8%80%E6%AC%A1report-%E9%93%BE%E6%8E%A5.md)
-* 12、Final Report
+* 11、Final Report
     - 学号-title
-* 13、建模练习
+* 12、建模练习
     
-    - 13.1 [ofo共享单车应用](https://github.com/gogogoSYSU/documents/blob/master/建模练习/ofo共享单车应用.pdf)
+    - 12.1 [ofo共享单车应用](https://github.com/gogogoSYSU/documents/blob/master/建模练习/ofo共享单车应用.pdf)
     
-    - 13.2 建模要求
+    - 12.2 建模要求
     
-    - 13.3 [建模者答案与评价](https://github.com/gogogoSYSU/documents/blob/master/建模练习/答案与评价.md)
+    - 12.3 [建模者答案与评价](https://github.com/gogogoSYSU/documents/blob/master/建模练习/答案与评价.md)
