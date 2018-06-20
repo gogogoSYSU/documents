@@ -56,6 +56,9 @@ Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress
 #### 子系统数据库设计
 ![子系统数据库设计](./Requirement%20specification/Database%20Design/database.jpg)
 
+#### 第三方数据评审结果
+[第三方数据评审结果](./Requirement%20specification/Database%20Design/第三方数据评审结果.md)
+
 ### API设计
 
 ### Software Architecture Document
