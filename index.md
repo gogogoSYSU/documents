@@ -13,7 +13,7 @@
     - 6.3 [Domain Model](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Domain%20Model/Costomer%20Domain%20Model.PNG)（领域模型）
     - 6.4 [State Model](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/State%20Model.PNG)（状态模型)  
     - 6.5 [System Sequence Diagram](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/SSD.md)（功能模型)
-    - 6.6 Supplementary Requirements（补充需求）  
+    - 6.6 [Supplementary Requirements](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Supplementary%20Requirements/SupplementaryRequirements.md)（补充需求）  
 * 7、Design（设计）
     - 7.1 UI design  
         - 7.1.1 [顾客端UI设计](https://github.com/gogogoSYSU/documents/tree/master/UI/UI2.0)
