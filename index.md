@@ -20,7 +20,7 @@
     - 7.2 Database design
         - 7.2.1 [用户及权限系统数据库设计](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/User%20Authority%20Database.PNG)
         - 7.2.2 [XX子系统数据库设计](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/database.jpg) 
-        - 7.2.x 第三方数据评审结果
+        - 7.2.3 [第三方数据评审结果](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%95%B0%E6%8D%AE%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C.md)
     - 7.3 API 设计
     - 7.4 Software Architecture Document
     - 7.5 Usecase design
