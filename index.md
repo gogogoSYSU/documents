@@ -41,6 +41,6 @@
     
     - 12.1 [ofo共享单车应用](https://github.com/gogogoSYSU/documents/blob/master/建模练习/ofo共享单车应用.pdf)
     
-    - 12.2 建模要求
+    - 12.2 [建模要求](https://github.com/gogogoSYSU/documents/blob/master/%E5%BB%BA%E6%A8%A1%E7%BB%83%E4%B9%A0/ofo%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E5%BA%94%E7%94%A8.pdf)
     
     - 12.3 [建模者答案与评价](https://github.com/gogogoSYSU/documents/blob/master/建模练习/答案与评价.md)
