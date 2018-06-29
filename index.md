@@ -2,6 +2,8 @@
 
 &nbsp;&nbsp; 
 
+**项目展示（GIF录屏）：**  
+[顾客端](https://github.com/gogogoSYSU/documents/blob/master/img/DoubleDuck_demo_web.gif) 
 * 1、[About](https://github.com/gogogoSYSU/documents/blob/master/README.md)（项目规划）
 * 2、[Team profile](https://github.com/gogogoSYSU/documents/blob/master/documents/team%20profile.md)（团队组建）
 * 3、[Investigation](https://github.com/gogogoSYSU/documents/blob/master/documents/Investigation.md)（项目前期调研）
