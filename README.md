@@ -36,8 +36,21 @@ github pages:
 作为一个创新的扫码点餐平台，我们兼备了自动推荐菜单的人性化服务、商家改变菜单主题风格的美化服务。  
 我们是收银+点餐+营销一体化系统，打造“零成本、高转化”的高效餐饮自运营体系。  
 我们支持移动设备快速点菜下单、库存管理（菜单库存实时更新）、手机端随时查看门店经营数据、  
-经营数据分析（销售排行、营业分析、退菜分析、客户分析）等让经营有的放矢、收银系统安装、菜单数据上传、员工使用说明。
+经营数据分析（销售排行、营业分析、退菜分析、客户分析）等让经营有的放矢、收银系统安装、菜单数据上传、员工使用说明。  
 
+## Requirement specification
+### Usecase Diagram
+详见->[用例图](https://github.com/gogogoSYSU/documents/tree/master/Requirement%20specification/Usercase%20Diagram)
+### Use Cases
+详见->[用例+活动图](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Use%20Cases/CustomerUsercaseText.md)
+### Domain Model
+详见->[领域模型](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Domain%20Model/Costomer%20Domain%20Model.PNG)
+### State Model
+详见->[状态模型](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/State%20Model.PNG)
+### System Sequence Diagram
+详见->[功能模型](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/System%20Sequence%20Diagram/SSD.md)
+### Supplementary Requirements
+详见->[补充需求](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Supplementary%20Requirements/SupplementaryRequirements.md)
 ## Design
 ### UI design
 #### Our logo
