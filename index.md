@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp; 
 
-* 1、[About](01-about)（项目规划）
+* 1、[About](https://github.com/gogogoSYSU/documents/blob/master/README.md)（项目规划）
 * 2、[Team profile](https://github.com/gogogoSYSU/documents/blob/master/documents/team%20profile.md)（团队组建）
 * 3、[Investigation](https://github.com/gogogoSYSU/documents/blob/master/documents/Investigation.md)（项目前期调研）
 * 4、[Vision](https://github.com/gogogoSYSU/documents/blob/master/documents/Project%20Vision.md)（项目愿景）
