@@ -26,7 +26,7 @@
     - 7.3 [API 设计](https://github.com/gogogoSYSU/documents/blob/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/RESTfulAPI%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
     - 7.4 [Software Architecture Document](https://github.com/gogogoSYSU/documents/blob/master/Software%20Architecture%20Document/SoftwareArchitectureDocument.md)
     - 7.5 Usecase design
-        - 7.5.1 xx case design
+        - 7.5.1 [查看菜品 case design](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/usecase%20design/usecase_design.md)
 * 8、生产规范与指南
     - 8.1 [代码规范](https://github.com/gogogoSYSU/documents/tree/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97)
     - 8.2 [REST API 设计规范](https://github.com/gogogoSYSU/documents/blob/master/生产规范与指南/RESTfulAPI%20设计规范.md)
