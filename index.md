@@ -30,7 +30,7 @@
 * 8、生产规范与指南
     - 8.1 [代码规范](https://github.com/gogogoSYSU/documents/tree/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97)
     - 8.2 [REST API 设计规范](https://github.com/gogogoSYSU/documents/blob/master/生产规范与指南/RESTfulAPI%20设计规范.md)
-    - 8.3 逻辑架构到应用程序映射指南
+    - 8.3 [逻辑架构到应用程序映射指南](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/映射.PNG)
     - 8.4 物理架构云上部署 dock-compose.yml 文件编写与使用
 * 9、meet_recording
     - [18/03/25](https://github.com/gogogoSYSU/documents/blob/master/meetings/2018_03_25/2018_03_25.md)
