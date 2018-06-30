@@ -57,3 +57,11 @@ PSP阶段|耗时
 -|-
 xiasilo（15331144）|我居然把MainPage的基础功能肝出了！！！
 LuyuanLi97（15331158）|我居然用vuex把菜品搜索功能肝出来了！！！
+## 技术/管理类博客
+LuyuanLi97：[UML用例图学习](https://blog.csdn.net/liluyuan5323/article/details/79932013)  
+Caroline1997：[UMLet的安装和使用&&用例图学习](https://blog.csdn.net/LadyCaro/article/details/79936332)  
+CZXHenry：[Vue.js学习笔记](https://github.com/CZXHenry/Documents/blob/master/Vue.js学习笔记.md)  
+xiasilo：[Git初体验](https://blog.csdn.net/xiasilo/article/details/79940198)  
+YitingKikyo：[UMLet学习](https://github.com/YitingKikyo/YitingKikyo.github.io/blob/master/_post/SystemAnalysis/Tools%20use%20--%20UMLet.md)  
+lianqy：[UML用例和Go初体验](https://lianqy.github.io/2018/04/14/2018-4-15-system_homework3-blog/)  
+
