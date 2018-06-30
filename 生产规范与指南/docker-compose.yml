@@ -1,0 +1,21 @@
+version: '3'
+services:
+  web:
+    build: .
+    command: npm run dev
+    ports:
+      - "8080:8080"
+  go:
+    image:golang:latest
+    ports:
+      - "9090:9090"
+    depends_on:
+      - mongo
+    build: ./build
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    restart: always
+    volumes:
+      - data/mongo
