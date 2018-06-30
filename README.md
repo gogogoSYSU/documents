@@ -92,6 +92,7 @@ API接口文档->[api](https://gogogosysu.docs.apiary.io/#)
 详见->[REST API 设计规范](https://github.com/gogogoSYSU/documents/blob/master/生产规范与指南/RESTfulAPI%20设计规范.md)
 
 ### 逻辑架构到应用程序映射指南
+详见->[映射](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/%E6%98%A0%E5%B0%84.PNG?raw=true)
 
 ### 物理架构云上部署dock-compose.yml文件编写与使用
 详见->[dock-compose](https://github.com/gogogoSYSU/documents/blob/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/docker-compose.yml)
