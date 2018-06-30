@@ -1,7 +1,9 @@
 # Dashboard
-Records of Sun Yat-sen Scan Code Ordering Platform（SYSSCOP）progress  
+Records of DoubleDuck Ordering Platform progress  
 顾客端demo展示(gif，若暂时无法加载，可以试着刷新几次)：  
 ![demo](https://github.com/gogogoSYSU/documents/blob/master/img/DoubleDuck_demo_web.gif)  
+商家端demo展示：  
+![demo](https://github.com/gogogoSYSU/documents/blob/master/img/DoubleDuck_demo_android.gif)  
 github pages:  
 [Dashboard](https://gogogosysu.github.io/documents/)
 
