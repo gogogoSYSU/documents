@@ -169,7 +169,13 @@ CZXHenry(15331044) | 我居然把StoreInfoPage,OrderPage和PayPage肝出来了�
 **经过组员的讨论，由于大家为这个项目都贡献了很多，因此组员一致决定把每个人的贡献度平均分配，这样最公平~**  
 各仓库贡献度截图，仅供参考：  
 项目文档仓库：  
-
+![documents](../img/contribution_document.png)  
+商家端（安卓）仓库：  
+![android](../img/contribution_android.PNG)  
+顾客端(web前端)仓库：  
+![vue](../img/contribution_vue.PNG)  
+后台服务端(go)仓库：  
+![go](../img/contribution_go.PNG)  
 
 ## 技术/管理类博客
 LuyuanLi97：[UML用例图学习](https://blog.csdn.net/liluyuan5323/article/details/79932013)  
