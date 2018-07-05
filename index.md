@@ -24,7 +24,9 @@
         - 7.2.1 [用户及权限系统数据库设计](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/User%20Authority%20Database.PNG)
         - 7.2.2 [子系统数据库设计](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/database.jpg) 
         - 7.2.3 [第三方数据评审结果](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/Database%20Design/%E7%AC%AC%E4%B8%89%E6%96%B9%E6%95%B0%E6%8D%AE%E8%AF%84%E5%AE%A1%E7%BB%93%E6%9E%9C.md)
-    - 7.3 [API 设计](https://github.com/gogogoSYSU/documents/blob/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/RESTfulAPI%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
+    - 7.3 API 设计
+        - 7.3.1 [API设计规范](https://github.com/gogogoSYSU/documents/blob/master/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/RESTfulAPI%20%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md)
+        - 7.3.2 [API接口文档](https://gogogosysu.docs.apiary.io/#)
     - 7.4 [Software Architecture Document](https://github.com/gogogoSYSU/documents/blob/master/Software%20Architecture%20Document/SoftwareArchitectureDocument.md)
     - 7.5 Usecase design
         - 7.5.1 [查看菜品 case design](https://github.com/gogogoSYSU/documents/blob/master/Requirement%20specification/usecase%20design/usecase_design.md)
